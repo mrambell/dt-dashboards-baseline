@@ -15,6 +15,7 @@ The repository helps you:
 - `skills/dtctl/`
   - Core skill definition for dtctl usage in investigative and artifact-creation scenarios.
   - Command patterns, output conventions, and Dynatrace resource operations.
+  - comes from the dtctl project https://github.com/dynatrace-oss/dtctl
 
 - `skills/dtctl/references/`
   - Focused reference docs for DQL, troubleshooting, config management, and resource-specific patterns.
