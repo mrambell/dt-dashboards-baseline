@@ -1,4 +1,4 @@
-# dashboards-value-rca
+# dt-dashboards-baseline
 
 This repository packages practical guidance for creating and validating Dynatrace artifacts with an AI-assisted workflow focused on operational value and root-cause analysis (RCA).
 
